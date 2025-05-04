@@ -25,7 +25,7 @@ from tensorflow import keras
 # In[2]:
 
 
-df=pd.read_csv(r"D:\Anaconda\1-Jupyter\archive\weatherAUS.csv")
+df=pd.read_csv(r"weatherAUS.csv")
 df
 
 
